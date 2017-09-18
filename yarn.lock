@@ -5048,6 +5048,13 @@ rc@^1.0.1, rc@^1.1.6, rc@^1.1.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
+react-addons-update@^15.6.0:
+  version "15.6.0"
+  resolved "http://registry.npm.taobao.org/react-addons-update/download/react-addons-update-15.6.0.tgz#67f8d5a3d3d8ac7ccfa452565a8310065178e748"
+  dependencies:
+    fbjs "^0.8.9"
+    object-assign "^4.1.0"
+
 react-dev-utils@^4.0.1:
   version "4.0.1"
   resolved "http://registry.npm.taobao.org/react-dev-utils/download/react-dev-utils-4.0.1.tgz#106ae3d29f811c169d459bb9215a5933b7e11fb6"
